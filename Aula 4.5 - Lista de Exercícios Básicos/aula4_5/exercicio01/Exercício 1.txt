@@ -1,0 +1,18 @@
+Exercício 1
+
+1. R = Um paradigma da programação que permite a representação de entidades e suas características para proporcionar maior organização e escalabilidade no desenvolvimento.
+
+2. R = A classe representa as características de uma entidade, possui métodos e atributos que proporcionam interação especifica entre si, para que esses atributos e métodos possam ser acessados de por fora, deve ser criado um objeto da classe. Cada objeto novo é uma instância independente da classe.
+
+3. R = Atributos são as características relacionadas à classe 
+
+4. R = Métodos são funções que permitem a manipulação especifica dentro da classe, assim como funções, podem ser reutilizadas para evitar repetição de código.
+
+5. R = Um construtor é chamado quando a classe é instanciada, este define as configurações iniciais e preenche os atributos da classe com novos valores.
+
+6. R = É uma prática da programação orientada a objetos que proporciona a segurança dos atributos da classe servido como intermédio entre eles, permitindo verificações de segurança.
+
+
+
+
+
