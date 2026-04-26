@@ -1,0 +1,3 @@
+Erro 1: Data,Hora não é uma herança válida. Uma classe só ter uma herança.
+Erro 2: duplicação e usos incorretos do super. O construtor super não pode ser chamado duas vezes no mesmo construtor. 
+Erro 3: Override de toString incorreto. Faltou o atributo @Override

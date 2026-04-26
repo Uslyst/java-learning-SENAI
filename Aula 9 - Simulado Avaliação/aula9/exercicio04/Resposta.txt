@@ -1,0 +1,2 @@
+Erro 1: sintaxe incorreta em "abstract public", abstract deve seguir depois de public
+Erro 2: violação de nomenclatura em "identificação" e "custoDeFabricação" com uso de caracteres especiais

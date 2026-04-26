@@ -1,0 +1,2 @@
+Erro 1: Ponto3D_V2 não preenche o construtor da classe pai Ponto2D_V2
+Erro 2: Classe filha Ponto3D_V2 tenta acessar campos privados da classe pai Ponto2D_V2
