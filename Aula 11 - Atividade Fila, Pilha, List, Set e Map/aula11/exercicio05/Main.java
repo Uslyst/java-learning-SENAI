@@ -3,7 +3,7 @@ package aula11.exercicio05;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class Main2 {
+public class Main {
     public static void main(String[] args) {
         HashMap<String, Integer> bagOfWords = new HashMap<>();
 
